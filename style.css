@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:url('img.webp') ; /* Light gray background */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f09cdf;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  h1 {
+    text-align: center;
+    color: black; /* Blue header text */
+    margin-bottom: 20px; /* Add some space below the header */
+  }
+  
+  .player {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%; /* Responsive images */
+    display: block; /* Center the image */
+    margin: 0 auto 20px; /* Center the image and add space below it */
+    border-radius: 10px; /* Rounded corners for images */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow for images */
+  }
+  
+  .controls {
+    margin-top: 20px;
+    display: flex; /* Arrange buttons horizontally */
+    justify-content: center; /* Center align buttons */
+  }
+  
+  button {
+    padding: 12px 24px; /* Slightly larger padding for buttons */
+    margin: 0 8px; /* Add some space between buttons */
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth transition on hover */
+  }
+  
+  button:hover {
+    background-color: #96fffd; /* Darker blue on hover */
+    color: black;
+  }
+  
+  h1:hover{
+    color:whitesmoke;
+  }
