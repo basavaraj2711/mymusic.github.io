@@ -31,9 +31,9 @@ Hi, I'm Basavaraj, a passionate web developer with a love for creating engaging 
 
 Connect with me on [LinkedIn](link-to-linkedin-profile) | [GitHub](link-to-github-profile)
 
-## Acknowledgements
+## Demo
 
-Special thanks to [OpenAI](https://openai.com) for providing the technology that powers the intelligent assistant behind this project.
+Check out the live demo [here](https://basavaraj2711.github.io/mymusic.github.io/).
 
 ## License
 
